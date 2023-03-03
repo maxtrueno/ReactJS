@@ -11,9 +11,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        {/*         Ejercicios sesiones 1, 2 y 3 */}
-        <COMPONETEA></COMPONETEA>
         
+        {/*         Ejercicios sesiones 1, 2 y 3 */}
+        {/* <COMPONETEA></COMPONETEA> */}
+
+
         <TaskListComponent></TaskListComponent>  
         <a
           className="App-link"

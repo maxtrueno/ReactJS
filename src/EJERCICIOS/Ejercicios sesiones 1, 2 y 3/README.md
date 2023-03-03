@@ -1,0 +1,1 @@
+Los archivos están renderizados dentro del App.js principal
