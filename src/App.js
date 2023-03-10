@@ -5,6 +5,7 @@ import GreetingF from './components/pure/greetingF';
 import TaskListComponent from './components/container/task_list';
 import ListaContacto from './EJERCICIOS/Ejercicios sesiones 1, 2 y 3/COMPONENTE A';
 import COMPONETEA from './EJERCICIOS/Ejercicios sesiones 1, 2 y 3/COMPONENTE A';
+import RelojFuncional from './EJERCICIOS/Ejercicios sesiones 4,5 y 6/reloj_funcional';
 
 function App() {
   return (
@@ -15,16 +16,13 @@ function App() {
         {/*         Ejercicios sesiones 1, 2 y 3 */}
         {/* <COMPONETEA></COMPONETEA> */}
 
+        {/*         Ejercicios sesiones 4, 5 y 6 */}
+        <RelojFuncional></RelojFuncional>
 
-        <TaskListComponent></TaskListComponent>  
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+
+        {/* <TaskListComponent></TaskListComponent>  */} 
+        
       </header>
     </div>
   );
