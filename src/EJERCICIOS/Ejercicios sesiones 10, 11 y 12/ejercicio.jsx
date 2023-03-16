@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const Ejercicio_10_11_12 = () => {
 
-    /*Color inicial black*/
+    /*Color inicial negro*/
     const [color, setColor] = useState('#000000');
 
     const [randomInterval, setRandomInterval] = useState(0)
