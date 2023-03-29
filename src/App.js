@@ -9,6 +9,7 @@ import RelojFuncional from './EJERCICIOS/Ejercicios sesiones 4,5 y 6/reloj_funci
 import Ejercicio_7_8_9 from './EJERCICIOS/Ejercicios sesiones 7, 8 y 9/app';
 import Ejercicio_10_11_12 from './EJERCICIOS/Ejercicios sesiones 10, 11 y 12/ejercicio';
 import TaskFormik from './EJERCICIOS/Ejercicios sesiones 13, 14 y 15/ejercicio';
+import Aplication from './EJERCICIOS/Entrega ejercicios 16, 17 y 18/aplication';
 
 
 function App() {
@@ -29,7 +30,11 @@ function App() {
 {/* <Ejercicio_10_11_12></Ejercicio_10_11_12> */}
 
 {/*         Ejercicios sesiones 13, 14 y 15 */}
-<TaskFormik></TaskFormik>
+{/* <TaskFormik></TaskFormik> */}
+
+{/* Entrega ejercicios 16, 17 y 18 */}
+<Aplication></Aplication>
+
         
       </header>
     </div>
