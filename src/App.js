@@ -33,7 +33,7 @@ function App() {
 {/* <TaskFormik></TaskFormik> */}
 
 {/* Entrega ejercicios 16, 17 y 18 */}
-<Aplication></Aplication>
+{/* <Aplication></Aplication> */}
 
         
       </header>
